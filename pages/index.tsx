@@ -10,9 +10,9 @@ const Home: NextPage = () => {
 					LETA - PUC Goiás
 				</title>
 
-				<meta name='description' content='LETA'/>
+				<meta content='LETA' name='description'/>
 
-				<link rel='icon' href='/favicon.ico'/>
+				<link href='/favicon.ico' rel='icon'/>
 			</Head>
 		</div>
 	)
